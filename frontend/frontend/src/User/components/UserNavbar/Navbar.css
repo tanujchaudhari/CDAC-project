@@ -1,0 +1,74 @@
+.navbar{
+    background-color:rgb(132,132,132) ;
+    /* color: white; */
+}
+.nav-link {
+  color:rgb(132,132,132) 
+}
+.nav-item{
+    font-weight: bold;
+}
+
+#ch{
+  color:rgb(212, 205, 205);
+}
+#nn{
+  color: rgb(226, 226, 226);
+}
+.ch1{
+  color:rgb(212, 205, 205);
+}
+#navbarDropdown{
+  color:rgb(212, 205, 205);
+}
+/* 
+ .navbar {
+  background-color: transparent;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80px;
+  font-size: 1.5rem;
+  position: fixed;
+  width: 100%;
+  z-index: 999;
+}
+
+.navbar-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 0 24px;
+  max-width: 1100px;
+}
+
+.navbar-logo {
+  color: #fff; /* Change color as needed */
+  /* justify-self: flex-start;
+  cursor: pointer;
+  text-decoration: none;
+  font-size: 2rem;
+}
+
+.nav-menu {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  text-align: center;
+  margin-right: -22px;
+}
+
+.nav-item {
+  height: 80px;
+}
+
+.nav-links {
+  color: #fff; /* Change color as needed */
+  /* display: flex;
+  align-items: center;
+  text-decoration: none;
+  padding: 0 1rem;
+  height: 100%;
+  cursor: pointer;
+} */ 
